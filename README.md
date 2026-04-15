@@ -10,13 +10,13 @@
  Enlace a Drive
 https://docs.google.com/document/d/1E9jIExHXLaqY4e_XbBgSZfFkWMlR2kPm/edit?usp=drivesdk&ouid=108720051153196488654&rtpof=true&sd=true
 
-## 🛠️ Herramientas utilizadas
+Herramientas utilizadas
 - Google Docs
 - Google Drive
 - Sitios webs/Inteligencia artificial
 - GitHub
 
-## 📌 Descripción
+ Descripción
 En este trabajo investigamos:
 - Cómo citar en normas APA (web, repositorio y libro digital)
 - Una tendencia tecnológica (IA)
