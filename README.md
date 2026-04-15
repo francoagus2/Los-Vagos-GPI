@@ -4,9 +4,9 @@
 - Carvallo Franco Agustín– Scrum Master
 - Davalos Alan David – Product Owner
 -  Procacci Jeremias Ezequiel- Dev Team
-
- | Alumno                     | Rol           | Tarea asignada          | GitHUb
-|---------------------------|---------------|------------------------ --|----------
+-
+| Alumno                    | Rol           | Tarea asignada            | GitHUb
+|---------------------------|---------------|---------------------------|----------
 | Carvallo Franco Agustín   | Scrum Master  | Gestión de acceso         | @francoagus2
 | Davalos Alan David        | Product Owner | Organizador de estructura | @alandd-sc
 | Procacci Jeremias Ezequiel| Dev Team      | investigacion             | @ezeejb
