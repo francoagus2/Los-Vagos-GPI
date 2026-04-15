@@ -1,12 +1,16 @@
  Trabajo: Investigación APA e Innovación
 
  Equipo
-- Carvallo Franco Agustín– Scrum Master                                          @francoagus2
-- Davalos Alan David – Product Owner                                             @alandd-sc
--  Procacci Jeremias Ezequiel- Dev Team                                          @ezeejb
+- Carvallo Franco Agustín– Scrum Master
+- Davalos Alan David – Product Owner
+-  Procacci Jeremias Ezequiel- Dev Team
 
+ | Alumno                     | Rol           | Tarea principal      | GitHUb
+|---------------------------|---------------|------------------------|----------
+| Carvallo Franco Agustín   | Scrum Master  | Organización del equipo| @francoagus2
+| Davalos Alan David        | Product Owner | Definir objetivos      | @alandd-sc
+| Procacci Jeremias Ezequiel| Dev Team      | Desarrollo             | @ezeejb
 
- 
  Enlace a Drive
 https://docs.google.com/document/d/1E9jIExHXLaqY4e_XbBgSZfFkWMlR2kPm/edit?usp=drivesdk&ouid=108720051153196488654&rtpof=true&sd=true
 
