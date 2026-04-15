@@ -1,9 +1,9 @@
  Trabajo: Investigación APA e Innovación
 
  Equipo
-- Carvallo Franco Agustín– Scrum Master
-- Davalos Alan David – Product Owner
--  Procacci Jeremias Ezequiel- Dev Team
+- Carvallo Franco Agustín– Scrum Master                                          @francoagus2
+- Davalos Alan David – Product Owner                                             @alandd-sc
+-  Procacci Jeremias Ezequiel- Dev Team                                          @ezeejb
 
 
  
